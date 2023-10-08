@@ -1,0 +1,16 @@
+C:\Users\devra\Desktop\C# Projelerim\Login Giriş Paneli\shopping calculation\shopping calculation\bin\Debug\net6.0-windows\shopping calculation.exe
+C:\Users\devra\Desktop\C# Projelerim\Login Giriş Paneli\shopping calculation\shopping calculation\bin\Debug\net6.0-windows\shopping calculation.deps.json
+C:\Users\devra\Desktop\C# Projelerim\Login Giriş Paneli\shopping calculation\shopping calculation\bin\Debug\net6.0-windows\shopping calculation.runtimeconfig.json
+C:\Users\devra\Desktop\C# Projelerim\Login Giriş Paneli\shopping calculation\shopping calculation\bin\Debug\net6.0-windows\shopping calculation.dll
+C:\Users\devra\Desktop\C# Projelerim\Login Giriş Paneli\shopping calculation\shopping calculation\bin\Debug\net6.0-windows\shopping calculation.pdb
+C:\Users\devra\Desktop\C# Projelerim\Login Giriş Paneli\shopping calculation\shopping calculation\obj\Debug\net6.0-windows\shopping_calculation.Form1.resources
+C:\Users\devra\Desktop\C# Projelerim\Login Giriş Paneli\shopping calculation\shopping calculation\obj\Debug\net6.0-windows\shopping calculation.csproj.GenerateResource.cache
+C:\Users\devra\Desktop\C# Projelerim\Login Giriş Paneli\shopping calculation\shopping calculation\obj\Debug\net6.0-windows\shopping calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devra\Desktop\C# Projelerim\Login Giriş Paneli\shopping calculation\shopping calculation\obj\Debug\net6.0-windows\shopping calculation.AssemblyInfoInputs.cache
+C:\Users\devra\Desktop\C# Projelerim\Login Giriş Paneli\shopping calculation\shopping calculation\obj\Debug\net6.0-windows\shopping calculation.AssemblyInfo.cs
+C:\Users\devra\Desktop\C# Projelerim\Login Giriş Paneli\shopping calculation\shopping calculation\obj\Debug\net6.0-windows\shopping calculation.csproj.CoreCompileInputs.cache
+C:\Users\devra\Desktop\C# Projelerim\Login Giriş Paneli\shopping calculation\shopping calculation\obj\Debug\net6.0-windows\shopping calculation.dll
+C:\Users\devra\Desktop\C# Projelerim\Login Giriş Paneli\shopping calculation\shopping calculation\obj\Debug\net6.0-windows\refint\shopping calculation.dll
+C:\Users\devra\Desktop\C# Projelerim\Login Giriş Paneli\shopping calculation\shopping calculation\obj\Debug\net6.0-windows\shopping calculation.pdb
+C:\Users\devra\Desktop\C# Projelerim\Login Giriş Paneli\shopping calculation\shopping calculation\obj\Debug\net6.0-windows\shopping calculation.genruntimeconfig.cache
+C:\Users\devra\Desktop\C# Projelerim\Login Giriş Paneli\shopping calculation\shopping calculation\obj\Debug\net6.0-windows\ref\shopping calculation.dll
